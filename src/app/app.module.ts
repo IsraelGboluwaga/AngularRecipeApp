@@ -32,4 +32,5 @@ import { ShoppingEditComponent } from './shopping-list/shopping-edit/shopping-ed
     bootstrap: [AppComponent]
 })
 export class AppModule {
+    
 }
